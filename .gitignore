@@ -1,0 +1,14 @@
+# Dossier d'environnement virtuel Python
+venv/
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+# Fichiers de configuration sensibles
+.env
+*.secret
+
+# Autres fichiers/dossiers à ignorer (optionnel)
+.vscode/
+*.log
