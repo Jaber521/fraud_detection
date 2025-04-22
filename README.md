@@ -15,7 +15,6 @@ Ce projet de PFE vise à développer un modèle de détection des transactions f
 ├── notebooks/
 │   ├── fraud_model_and_gradio_full.ipynb     # Entraînement + Gradio interface
 │   └── visualisations_tables_croisees.ipynb  # Visualisation des analyses croisées
-├── Etat_avancement_PFE_Fraude.pdf            # Rapport d'avancement du projet
 └── README.md
 
 
